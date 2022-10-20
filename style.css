@@ -1,0 +1,24 @@
+.receipt-heading {
+    font-family: Nunito, sans-serif;
+    font-size: 40px;
+    color: #555;
+    background: transparent;
+    border-radius: 3px;
+    outline: 0;
+}
+.items{
+    background-color: inherit;
+    border: none;
+}
+.btn-remove{
+    display: none;
+}
+/* .item-row:hover .btn-remove{
+    display: block;
+  } */
+.hover-btn{
+    display: block;
+  }
+.col-remove-btn{
+    width: 40px;
+}
